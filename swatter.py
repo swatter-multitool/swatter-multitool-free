@@ -180,8 +180,6 @@ def inputclass():
                     tokenlogin Â» will log in any tokens (bypass 2fa)
 
                     Token-Generator Â» Fast Token Generator lock rating (20/100)%
-					design » swatter, shadow, eyes
-					color » chooses a color
         '''
 
         if getTheme() == "blue":
