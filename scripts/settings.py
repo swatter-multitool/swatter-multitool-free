@@ -18,8 +18,6 @@ from colorama import Fore
 import time              
 import shutil
 from tkinter import Tk
-os.system("pip install req9")
-from req9 import discord
 from discord_webhook import DiscordWebhook, DiscordEmbed
 from tkinter.filedialog import askopenfilename
 import psutil
